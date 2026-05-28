@@ -1,0 +1,17 @@
+JarIndex-Version: 1.0
+
+lwjgl-jemalloc-natives-linux.jar
+META-INF
+META-INF/linux
+META-INF/linux/x64
+META-INF/linux/x64/org
+META-INF/linux/x64/org/lwjgl
+META-INF/linux/x64/org/lwjgl/jemalloc
+META-INF/versions
+META-INF/versions/9
+linux
+linux/x64
+linux/x64/org
+linux/x64/org/lwjgl
+linux/x64/org/lwjgl/jemalloc
+

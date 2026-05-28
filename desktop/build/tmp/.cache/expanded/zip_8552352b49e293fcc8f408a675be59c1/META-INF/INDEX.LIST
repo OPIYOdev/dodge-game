@@ -1,0 +1,17 @@
+JarIndex-Version: 1.0
+
+lwjgl-jemalloc-natives-macos.jar
+META-INF
+META-INF/macos
+META-INF/macos/x64
+META-INF/macos/x64/org
+META-INF/macos/x64/org/lwjgl
+META-INF/macos/x64/org/lwjgl/jemalloc
+META-INF/versions
+META-INF/versions/9
+macos
+macos/x64
+macos/x64/org
+macos/x64/org/lwjgl
+macos/x64/org/lwjgl/jemalloc
+
